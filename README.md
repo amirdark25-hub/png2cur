@@ -8,3 +8,6 @@ Converts a PNG image to a Windows cursor (.cur) file.
 
 ## Install
     pip install pillow
+
+---
+🤖 Built with heavy AI assistance (my first Python project!)
